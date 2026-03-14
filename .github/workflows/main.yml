@@ -38,7 +38,7 @@ jobs:
           };
 
           export default function () {
-            http.get('https://blackcode.yzz.me');
+            http.get('https://live-hz-12.livepush.io/live/emwza9qiisiMz80k/playlist.m3u8');
           }
           EOF
 
